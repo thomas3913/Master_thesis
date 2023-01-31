@@ -1,0 +1,15 @@
+artifact_uri: $PM2S_workspace\mlruns/1/23fd21067c6f406f81b62b2a5d46421a/artifacts
+end_time: 1675092551772
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23fd21067c6f406f81b62b2a5d46421a
+run_name: dazzling-chimp-23
+run_uuid: 23fd21067c6f406f81b62b2a5d46421a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675092507411
+status: 4
+tags: []
+user_id: Thomas

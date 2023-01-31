@@ -1,0 +1,15 @@
+artifact_uri: $PM2S_workspace\mlruns/1/5c6ebbbafa0f48e193c893d8481a115a/artifacts
+end_time: 1675159887440
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c6ebbbafa0f48e193c893d8481a115a
+run_name: dazzling-trout-458
+run_uuid: 5c6ebbbafa0f48e193c893d8481a115a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675159870260
+status: 4
+tags: []
+user_id: Thomas

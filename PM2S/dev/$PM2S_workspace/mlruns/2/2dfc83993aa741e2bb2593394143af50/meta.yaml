@@ -1,0 +1,15 @@
+artifact_uri: $PM2S_workspace\mlruns/2/2dfc83993aa741e2bb2593394143af50/artifacts
+end_time: 1675160060375
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2dfc83993aa741e2bb2593394143af50
+run_name: rare-shrew-514
+run_uuid: 2dfc83993aa741e2bb2593394143af50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675159979357
+status: 4
+tags: []
+user_id: Thomas

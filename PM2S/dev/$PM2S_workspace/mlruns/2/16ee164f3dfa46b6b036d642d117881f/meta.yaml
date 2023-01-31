@@ -1,0 +1,15 @@
+artifact_uri: $PM2S_workspace\mlruns/2/16ee164f3dfa46b6b036d642d117881f/artifacts
+end_time: 1675160369917
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 16ee164f3dfa46b6b036d642d117881f
+run_name: legendary-finch-648
+run_uuid: 16ee164f3dfa46b6b036d642d117881f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675160322331
+status: 4
+tags: []
+user_id: Thomas

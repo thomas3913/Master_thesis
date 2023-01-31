@@ -1,0 +1,1 @@
+python train.py --workspace $PM2S_workspace --ASAP ../../asap-dataset --A_MAPS ../../MIDI-Datasets/A-MAPS_1.2 --CPM ../../MIDI-Datasets/Piano-MIDI --feature beat --full_train False

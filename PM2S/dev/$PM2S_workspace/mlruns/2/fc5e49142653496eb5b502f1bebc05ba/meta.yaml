@@ -1,0 +1,15 @@
+artifact_uri: $PM2S_workspace\mlruns/2/fc5e49142653496eb5b502f1bebc05ba/artifacts
+end_time: 1675092633445
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fc5e49142653496eb5b502f1bebc05ba
+run_name: youthful-donkey-90
+run_uuid: fc5e49142653496eb5b502f1bebc05ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675092591733
+status: 4
+tags: []
+user_id: Thomas

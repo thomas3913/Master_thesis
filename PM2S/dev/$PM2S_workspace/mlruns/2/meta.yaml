@@ -1,0 +1,6 @@
+artifact_location: $PM2S_workspace\mlruns/2
+creation_time: 1675092591378
+experiment_id: '2'
+last_update_time: 1675092591378
+lifecycle_stage: active
+name: beat-training

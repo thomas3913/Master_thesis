@@ -1,0 +1,15 @@
+artifact_uri: $PM2S_workspace\mlruns/1/c1e2a9da58e34c50b6a078efb1c8c2df/artifacts
+end_time: 1675092435568
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1e2a9da58e34c50b6a078efb1c8c2df
+run_name: ambitious-perch-931
+run_uuid: c1e2a9da58e34c50b6a078efb1c8c2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675092431976
+status: 4
+tags: []
+user_id: Thomas
