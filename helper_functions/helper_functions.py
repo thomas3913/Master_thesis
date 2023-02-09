@@ -88,8 +88,12 @@ def print_model_statistics(model_checkpoint):
         plt.title("Learning rate history")
         plt.show()
 
-def plot_value_list(list,colour,title):
+def plot_value_list(list,colour,title,save,save_name):
     if len(list) > 1:
+        plt.clf()
         plt.plot(np.arange(len(list)), list, color=colour)
         plt.title(title)
-        plt.show()
+        if save == False:
+            plt.show()
+        elif save == True:
+            plt.savefig(save_name+".pdf")
